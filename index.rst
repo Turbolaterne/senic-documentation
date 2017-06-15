@@ -11,8 +11,8 @@ Senic Hub Technical Documentation
 What is the Senic Hub
 =====================
 
-The Senic Hub is a **Bluetooth Low Energy and Wi-Fi-enabled smart home hub** that allows a user to connect to their smart devices (such as Sonos, Philips Hue etc).
-It also works together with the `Senic Nuimo <https://www.senic.com/en/nuimo>`_, our very own bluetooth controller for smart devices and significantly extends its usefulness by eliminating the need to having it connected to a smart phone or tablet.
+The Senic Hub is a **Bluetooth, Bluetooth Low Energy and Wi-Fi-enabled smart home hub** that allows a user to connect to their smart devices (such as Sonos, Philips Hue etc).
+It also works together with the `Senic Nuimo <https://www.senic.com/en/nuimo>`_, our very own BLE controller for smart devices and significantly extends its usefulness by eliminating the need to having it connected to a smart phone or tablet.
 
 .. pull-quote::
 
@@ -60,7 +60,7 @@ The other is the fact that it is actually *designed to be included in a product*
 However, we found that satisfactory runtime stability, heat dissipation etc. were basically not achievable with those offerings.
 
 We ship it with a 2 GB high-speed memory card that stores the operating system, software stack and user data.
-More importantly, we extend it with `carefully chosen <https://github.com/getsenic/wifi-ble-link-quality-benchmark>`_ high class **Wi-Fi and Bluetooth 4.0 dongles** to provide the best possible wireless connectivity within the given physical restraints.
+More importantly, we extend it with `carefully chosen <https://github.com/getsenic/wifi-ble-link-quality-benchmark>`_ high class **Wi-Fi, Bluetooth 3.0 and Bluetooth 4.0 dongles** to provide the best possible wireless connectivity within the given physical restraints.
 
 
 Operating System: Linux
